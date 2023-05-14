@@ -14,7 +14,7 @@ export default function App() {
         id: null,
         name: "CNBC"
       },
-      author: "Pia Singh",
+      author: "ccc Singh",
       title:
         "Stocks making the biggest moves premarket: Activision Blizzard, Chipotle, First Republic Bank & more - CNBC",
       description:
